@@ -23,6 +23,6 @@ require('lazy').setup({
   require('plugins.autocompletion'),
   require('plugins.autoformatting'),
   require('plugins.gitsigns'),
-  require('lua.plugins.indent-blankline'),
-  require('lua.plugins.misc'),
+  require('plugins.indent-blankline'),
+  require('plugins.alpha'),
 })
