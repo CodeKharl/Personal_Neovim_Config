@@ -24,4 +24,5 @@ require('lazy').setup({
   require('plugins.autoformatting'),
   require('plugins.gitsigns'),
   require('lua.plugins.indent-blankline'),
+  require('lua.plugins.misc'),
 })
